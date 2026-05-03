@@ -1,6 +1,8 @@
 Szerencsejáték_Promóció és Játékos Insight Analízis_fiktív
+
 Ez a projekt egy átfogó üzleti elemzést mutat be, amelynek célja a marketing promóciók hatékonyságának mérése és a VIP játékosok korai azonosítása prediktív modellezés segítségével. 
- Üzleti Probléma
+
+ Üzleti Probléma:
 A vállalat célja a marketingbüdzsé optimalizálása és a játékélmény személyre szabása. A fő kérdések:
 1.	Hogyan befolyásolják a promóciós kódok a játékosok költési hajlandóságát?
 2.	Mely játéktípusoknál (Lottó, Sorsjegy, Tippmix) a leghatékonyabb a kampány?
